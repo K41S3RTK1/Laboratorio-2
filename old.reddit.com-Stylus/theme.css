@@ -1,0 +1,68 @@
+@-moz-document domain("old.reddit.com") {
+  body {
+    background: #f3f0e8 !important;
+    color: #1a1a1a !important;
+    font-family: Arial, sans-serif !important;
+    line-height: 1.5 !important;
+  }
+
+  .side,
+  #sr-header-area,
+  .footer-parent,
+  .promoted {
+    display: none !important;
+  }
+
+  #header {
+    background: #ffffff !important;
+    border-bottom: 1px solid #cfc7b8 !important;
+  }
+
+  .content {
+    max-width: 950px !important;
+    margin: 15px auto !important;
+  }
+
+  .thing {
+    background: #ffffff !important;
+    border: 1px solid #cfc7b8 !important;
+    border-radius: 10px !important;
+    padding: 12px !important;
+    margin: 12px 0 !important;
+  }
+
+  .title,
+  .title a {
+    color: #111111 !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+  }
+
+  a {
+    color: #0b57d0 !important;
+  }
+
+  a:visited {
+    color: #6a2dbf !important;
+  }
+
+  .tagline,
+  .domain,
+  .buttons li a,
+  .score {
+    color: #555555 !important;
+  }
+
+  .thumbnail img {
+    border: 1px solid #cfc7b8 !important;
+    border-radius: 8px !important;
+  }
+
+  .commentarea .comment {
+    background: #ffffff !important;
+    border: 1px solid #cfc7b8 !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    margin: 10px 0 !important;
+  }
+}
