@@ -27,7 +27,12 @@ This repository contains two deliverables:
 
 ### Before / After screenshots
 - Before: `docs/reddit-before.png`
+  <img width="2560" height="1440" alt="reddit-before" src="https://github.com/user-attachments/assets/bf7e30d5-3782-4a5a-a46c-2527c8aeb32c" />
+
 - After: `docs/reddit-after.png`
+<img width="2555" height="1440" alt="reddit-after" src="https://github.com/user-attachments/assets/c1cc08c7-92f1-411e-bc13-36313e0e7083" />
+
+
 
 How I tested it:
 - Install the Stylus extension
@@ -83,3 +88,4 @@ https://youtu.be/nLlkIDvQEJQ
 - Author:
   
 Daniel Sandoval - 24885
+
